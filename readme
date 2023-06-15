@@ -1,0 +1,8 @@
+This is my implementation of my project "Text Detection and Summarization from Scanned Documents" that uses 
+Open CV and TextRank Algorithm to first identify the text from a pdf by converting it into a picture and then subsequently performing 
+Text Summarization on it to give a short summary.
+
+How to run the file:
+1. Download sample.pdf
+2. clone/copy the code
+3. run the code
