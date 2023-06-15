@@ -1,0 +1,33 @@
+Questions 7-10 are based on the passage below.
+
+A common misconception is that color refers only to a wavelength of light in the visual]
+spectrum, from about 400 nanometers (violet) to about 700 nanometers (red). When
+an object reflects light of a given wavelength, we see that object as the corresponding color. So, for example, we might see a Braeburn apple as red and a Granny Smith
+apple as green because they reflect light of different wavelengths. However, color is not
+merely a property of an external physical object but rather the result of an interaction
+among that object, the light that shines on it, and, finally but most significantly, the
+manner in which the human eye and brain make sense of the reflected light stimulus.
+Thus, the study of color can properly fall as much within the realm of psychology as
+that of physics.
+
+Experience is one psychological factor that informs our perception of color. For example, a child eating by a campfire that emits a great deal of yellow light may believe
+that the melted Cheddar cheese served on white bread on a white paper plate is actually a white cheese like Swiss or Monterey Jack. This occurs because the yellow light
+reflects off both the plate and the bread, which the child knows are white, and off
+the cheese, which the child isn’t sure about. All the objects therefore appear to be the
+same color, and the child assumes that color is white. On the other hand, an adult
+with experience viewing things in firelight would intuitively adjust her perception to
+account for the yellow light and would not make the same mistake.
+
+Color is also perceived differently depending on its context. The noted abstract painter
+Josef Albers produced an influential body of work based on this phenomenon, including his series Homage to the Square featuring nested squares of different colors. In
+one psychological experiment testing perception, the letter X is presented against
+two colored backgrounds. Although the letter is identical each time it is presented,
+it appears olive green in one context and lavender in the other context. This effect is
+achieved when the X is given a low-saturation blue color, or gray-blue, and the backgrounds are also low-saturation colors with hues on either side of blue on the color
+wheel. Because blue falls between purple and green on the color wheel, a gray-blue
+X against a gray-purple background will look gray-green, or olive, and the same X
+against an olive background will look gray-purple, or lavender. In a similar manner,
+an intermediate color will look different against different primary color backdrops;
+teal, for instance, will look green against a blue background and blue against a green
+background.
+
